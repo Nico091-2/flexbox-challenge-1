@@ -16,11 +16,11 @@ div[class^="child"] {
 }
 
 .child, .child2{
-  flex: 0 1 auto;
+  flex: 2 1 auto;
 }
 
 .chiild3, .child4{
-    flex: 1 1 auto;
+    flex: 1 2 auto;
 }
 
 .child5, .child8{
